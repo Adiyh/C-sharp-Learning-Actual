@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Calculator
+class Program
 {
     public static void Main(string[] args)
     {
@@ -33,3 +33,5 @@ class Calculator
         Console.WriteLine("Result: " + result);
     }
 }
+
+   
