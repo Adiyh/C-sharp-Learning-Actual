@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F7E4C50-E549-4BEF-B582-BDF64854A96D}|HelloWorld\\HelloWorld.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\helloworld\\helloworld\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F7E4C50-E549-4BEF-B582-BDF64854A96D}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F7E4C50-E549-4BEF-B582-BDF64854A96D}|HelloWorld\\HelloWorld.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\helloworld\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F7E4C50-E549-4BEF-B582-BDF64854A96D}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7E4C50-E549-4BEF-B582-BDF64854A96D}|HelloWorld\\HelloWorld.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\helloworld\\helloworld\\helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1F7E4C50-E549-4BEF-B582-BDF64854A96D}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\helloworld.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1F7E4C50-E549-4BEF-B582-BDF64854A96D}|HelloWorld\\HelloWorld.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\helloworld\\helloworld\\helloworld.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1F7E4C50-E549-4BEF-B582-BDF64854A96D}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\helloworld.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\HelloWorld\\HelloWorld\\Class1.cs",
-              "RelativeDocumentMoniker": "HelloWorld\\Class1.cs",
-              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\HelloWorld\\HelloWorld\\Class1.cs",
-              "RelativeToolTip": "HelloWorld\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T09:36:44.622Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HelloWorld",
               "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
               "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.csproj",
               "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
               "RelativeToolTip": "HelloWorld\\HelloWorld.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-04T09:36:13.671Z",
+              "WhenOpened": "2025-04-04T09:52:54.621Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\HelloWorld\\HelloWorld\\Program.cs",
               "RelativeDocumentMoniker": "HelloWorld\\Program.cs",
-              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\HelloWorld\\HelloWorld\\Program.cs*",
-              "RelativeToolTip": "HelloWorld\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAACAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\HelloWorld\\HelloWorld\\Program.cs",
+              "RelativeToolTip": "HelloWorld\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T06:20:57.454Z",
               "EditorCaption": ""
