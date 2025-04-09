@@ -22,7 +22,14 @@ namespace Inheritanceapp
            
             c.test1();
             c.test2();
-                
+            object obj = new object();
+            Console.WriteLine(obj.GetType());
+            Console.WriteLine(c.GetType());
+            Console.WriteLine(obj);
+
+
+
+
         }
     }
 }
