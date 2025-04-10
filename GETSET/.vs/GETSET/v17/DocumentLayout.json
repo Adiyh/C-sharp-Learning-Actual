@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\GETSET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9745C4F-C48E-46AC-96B3-D24A9230CA03}|GETSET.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\getset\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9745C4F-C48E-46AC-96B3-D24A9230CA03}|GETSET.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9745C4F-C48E-46AC-96B3-D24A9230CA03}|GETSET.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\getset\\gettersetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9745C4F-C48E-46AC-96B3-D24A9230CA03}|GETSET.csproj|solutionrelative:gettersetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9745C4F-C48E-46AC-96B3-D24A9230CA03}|GETSET.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\getset\\mainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9745C4F-C48E-46AC-96B3-D24A9230CA03}|GETSET.csproj|solutionrelative:mainmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9745C4F-C48E-46AC-96B3-D24A9230CA03}|GETSET.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\getset\\getset.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9745C4F-C48E-46AC-96B3-D24A9230CA03}|GETSET.csproj|solutionrelative:getset.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9745C4F-C48E-46AC-96B3-D24A9230CA03}|GETSET.csproj|c:\\users\\adars\\onedrive\\desktop\\csharp\\getset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9745C4F-C48E-46AC-96B3-D24A9230CA03}|GETSET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\GETSET\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\GETSET\\Class1.cs*",
+              "RelativeToolTip": "Class1.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:50:40.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMethod.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\GETSET\\MainMethod.cs",
+              "RelativeDocumentMoniker": "MainMethod.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\GETSET\\MainMethod.cs",
+              "RelativeToolTip": "MainMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:39:39.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetterSetter.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\GETSET\\GetterSetter.cs",
+              "RelativeDocumentMoniker": "GetterSetter.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\GETSET\\GetterSetter.cs",
+              "RelativeToolTip": "GetterSetter.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:38:15.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GETSET.csproj",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\GETSET\\GETSET.csproj",
+              "RelativeDocumentMoniker": "GETSET.csproj",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\GETSET\\GETSET.csproj",
+              "RelativeToolTip": "GETSET.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T07:28:35.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\GETSET\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\GETSET\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:28:15.658Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
