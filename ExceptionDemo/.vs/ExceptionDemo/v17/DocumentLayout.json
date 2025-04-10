@@ -40,15 +40,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ExceptionDemo",
+              "Title": "ExceptionDemo.csproj",
               "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\ExceptionDemo\\ExceptionDemo.csproj",
               "RelativeDocumentMoniker": "ExceptionDemo.csproj",
               "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\ExceptionDemo\\ExceptionDemo.csproj",
               "RelativeToolTip": "ExceptionDemo.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-09T05:39:36.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T05:39:36.491Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T05:36:37.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T05:36:37.658Z"
             }
           ]
         }
