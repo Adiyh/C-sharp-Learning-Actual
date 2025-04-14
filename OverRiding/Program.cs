@@ -1,10 +1,21 @@
-﻿namespace OverRiding
+﻿//using static Animal;
+
+//public class Program
+//{
+//public static void Main(String[] args) 
+//    { 
+
+
+//        Adarsh adi = new Adarsh();  
+//        adi.Run();
+
+//    }
+//}
+class MainClass
 {
-    public class Program
+    public static void Main(String[] args)
     {
-        public static void Main(string[] args)
-        {
-            Animal.run();
-        }
+        Son son = new Son();
+        son.SonDetails();
     }
 }

@@ -11,8 +11,10 @@ namespace CalculatorProgram
 
     {
         public static void Main()
+        
+        
         {
-            Menu.menu();
+            Menu.Menu1();
             Interest.InterstLogic();
             Arithmitic.ArithmiticLogic();
 

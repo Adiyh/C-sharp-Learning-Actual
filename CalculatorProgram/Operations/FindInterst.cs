@@ -8,7 +8,7 @@ namespace CalculatorProgram.Operations
 {
     internal class FindInterst
     {
-        public static void findinterst()
+        public void findinterst()
         {
             try
             {

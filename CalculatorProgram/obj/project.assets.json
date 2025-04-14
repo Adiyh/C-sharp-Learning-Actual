@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\CalculatorProgram.csproj",
-      "projectName": "CalculatorProgram",
-      "projectPath": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\CalculatorProgram.csproj",
+      "projectUniqueName": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\FinalCalculator.csproj",
+      "projectName": "FinalCalculator",
+      "projectPath": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\FinalCalculator.csproj",
       "packagesPath": "C:\\Users\\adars\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\CalculatorProgram\\obj\\",
       "projectStyle": "PackageReference",

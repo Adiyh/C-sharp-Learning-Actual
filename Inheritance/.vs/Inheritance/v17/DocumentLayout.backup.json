@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -42,16 +42,11 @@
               "Title": "Attender.cs",
               "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\Designation\\Attender.cs",
               "RelativeDocumentMoniker": "Designation\\Attender.cs",
-              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\Designation\\Attender.cs*",
-              "RelativeToolTip": "Designation\\Attender.cs*",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\Designation\\Attender.cs",
+              "RelativeToolTip": "Designation\\Attender.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T07:12:19.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "WhenOpened": "2025-04-10T07:12:19.186Z"
             },
             {
               "$type": "Document",
@@ -59,12 +54,11 @@
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\Designation\\Teacher.cs",
               "RelativeDocumentMoniker": "Designation\\Teacher.cs",
-              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\Designation\\Teacher.cs*",
-              "RelativeToolTip": "Designation\\Teacher.cs*",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\Designation\\Teacher.cs",
+              "RelativeToolTip": "Designation\\Teacher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T07:01:37.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T07:01:37.736Z"
             },
             {
               "$type": "Document",
@@ -72,12 +66,11 @@
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\Designation\\Student.cs",
               "RelativeDocumentMoniker": "Designation\\Student.cs",
-              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\Designation\\Student.cs*",
-              "RelativeToolTip": "Designation\\Student.cs*",
+              "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\Designation\\Student.cs",
+              "RelativeToolTip": "Designation\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T06:08:13.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T06:08:13.719Z"
             },
             {
               "$type": "Document",
@@ -89,8 +82,7 @@
               "RelativeToolTip": "modules\\School.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwBkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T05:58:07.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T05:58:07.479Z"
             },
             {
               "$type": "Document",
@@ -100,7 +92,7 @@
               "RelativeDocumentMoniker": "SchoolInheritance.cs",
               "ToolTip": "C:\\Users\\adars\\OneDrive\\Desktop\\CSharp\\Inheritance\\SchoolInheritance.cs",
               "RelativeToolTip": "SchoolInheritance.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T05:55:20.028Z",
               "EditorCaption": ""

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CalculatorProgram.Operations
 {
     internal class FindArithmatic
-    { public static void find()
+    { public void find()
         {
             int num1, num2, result = 0;
             try
