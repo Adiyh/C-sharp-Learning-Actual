@@ -1,0 +1,14 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\CollectioProject\bin\Debug\net8.0\CollectioProject.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\CollectioProject\bin\Debug\net8.0\CollectioProject.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\CollectioProject\bin\Debug\net8.0\CollectioProject.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\CollectioProject\bin\Debug\net8.0\CollectioProject.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\CollectioProject\bin\Debug\net8.0\CollectioProject.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\CollectioProject\obj\Debug\net8.0\CollectioProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\CollectioProject\obj\Debug\net8.0\CollectioProject.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\CollectioProject\obj\Debug\net8.0\CollectioProject.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\CollectioProject\obj\Debug\net8.0\CollectioProject.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\CollectioProject\obj\Debug\net8.0\CollectioProject.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\CollectioProject\obj\Debug\net8.0\refint\CollectioProject.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\CollectioProject\obj\Debug\net8.0\CollectioProject.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\CollectioProject\obj\Debug\net8.0\CollectioProject.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\CollectioProject\obj\Debug\net8.0\ref\CollectioProject.dll
