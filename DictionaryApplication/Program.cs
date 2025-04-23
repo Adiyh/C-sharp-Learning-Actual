@@ -5,18 +5,18 @@ class Program
 {
     public static void Main()
     {
-        Dictionary<string, string> friction = new Dictionary<string, string>();
-        friction.Add("aditya", "A");
-        friction.Add("Akash","B");
-        friction["Anup"] ="C";
+        Dictionary<string, string> adarsh = new Dictionary<string, string>();
+        adarsh.Add("aditya", "A");
+        adarsh.Add("Akash","B");
+        adarsh["Anup"] ="C";
 
-        foreach (string key in friction.Keys)
+        foreach (string key in adarsh.Keys)
         {
             Console.WriteLine("Name:"+ key);
         }
-        if (friction.ContainsKey("Anup"))
+        if (adarsh.ContainsKey("Anup"))
         {
-            Console.WriteLine("Anup's name is :" + friction["Anup"]);
+            Console.WriteLine("Anup's name is :" + adarsh["Anup"]);
         }
     }
 }

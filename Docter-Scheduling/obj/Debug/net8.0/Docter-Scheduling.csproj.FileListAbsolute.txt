@@ -1,0 +1,15 @@
+C:\Users\adars\OneDrive\Desktop\CSharp\Docter-Scheduling\bin\Debug\net8.0\Docter-Scheduling.exe
+C:\Users\adars\OneDrive\Desktop\CSharp\Docter-Scheduling\bin\Debug\net8.0\Docter-Scheduling.deps.json
+C:\Users\adars\OneDrive\Desktop\CSharp\Docter-Scheduling\bin\Debug\net8.0\Docter-Scheduling.runtimeconfig.json
+C:\Users\adars\OneDrive\Desktop\CSharp\Docter-Scheduling\bin\Debug\net8.0\Docter-Scheduling.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\Docter-Scheduling\bin\Debug\net8.0\Docter-Scheduling.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\Docter-Scheduling\obj\Debug\net8.0\Docter-Scheduling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adars\OneDrive\Desktop\CSharp\Docter-Scheduling\obj\Debug\net8.0\Docter-Scheduling.AssemblyInfoInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\Docter-Scheduling\obj\Debug\net8.0\Docter-Scheduling.AssemblyInfo.cs
+C:\Users\adars\OneDrive\Desktop\CSharp\Docter-Scheduling\obj\Debug\net8.0\Docter-Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\Docter-Scheduling\obj\Debug\net8.0\Docter-Scheduling.sourcelink.json
+C:\Users\adars\OneDrive\Desktop\CSharp\Docter-Scheduling\obj\Debug\net8.0\Docter-Scheduling.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\Docter-Scheduling\obj\Debug\net8.0\refint\Docter-Scheduling.dll
+C:\Users\adars\OneDrive\Desktop\CSharp\Docter-Scheduling\obj\Debug\net8.0\Docter-Scheduling.pdb
+C:\Users\adars\OneDrive\Desktop\CSharp\Docter-Scheduling\obj\Debug\net8.0\Docter-Scheduling.genruntimeconfig.cache
+C:\Users\adars\OneDrive\Desktop\CSharp\Docter-Scheduling\obj\Debug\net8.0\ref\Docter-Scheduling.dll
