@@ -36,8 +36,12 @@
 
             ao += new AddionOperation(Sub1);
             ao(12, 56);
+           int  a = 10;
+            int b= 20;
+            Console.WriteLine("Hello");
+            Console.WriteLine( a<<1);
         }
-
+        
 
 
         public static string SayHello(string name)
