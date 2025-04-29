@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnumarationsProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e0075dade024b7846d638914dba476b0b552afd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5661cd5838ed5fc01096f182dfced13c1419fcf9")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnumarationsProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnumarationsProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

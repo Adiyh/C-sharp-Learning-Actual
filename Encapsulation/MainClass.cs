@@ -14,6 +14,7 @@ namespace Encapsulation
             static void Main(string[] args)
             {
                 ATM myATM = new ATM();
+            
                 try
                 {
 
@@ -24,6 +25,7 @@ namespace Encapsulation
                         Console.WriteLine("2. Deposit");
                         Console.WriteLine("3. Withdraw");
                         Console.WriteLine("4. Exit");
+                    Console.WriteLine("5.Addition");
 
                         Console.Write("Choose an option: ");
                         int choice = Convert.ToInt32(Console.ReadLine());
@@ -38,7 +40,7 @@ namespace Encapsulation
 
                             case 2:
                                 Console.Write("Enter amount to deposit: ");
-                                decimal depositAmount = Convert.ToDecimal(Console.ReadLine());
+                                decimal depositAmount = Convert.ToInt32(Console.ReadLine());
                                 myATM.Deposit(depositAmount);
                                 break;
 
@@ -52,7 +54,11 @@ namespace Encapsulation
                                 Console.WriteLine("Thank you for using our ATM!");
                                 return;
 
-                            default:
+
+                            case 5: int k=  myATM.maths();
+                            Console.WriteLine("SUM is " + k);
+                            break;
+                        default:
                                 Console.WriteLine("Invalid option. Please try again.");
                                 break;
                         }

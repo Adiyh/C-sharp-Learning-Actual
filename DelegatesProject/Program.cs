@@ -1,61 +1,35 @@
-﻿namespace MyclassArea
+﻿namespace Adarsh
 {
-    public delegate string GreetAdarsh(string name);
-    public delegate void AddionOperation(int num1, int num2);
-    public delegate void Mathoperation(int num1, int num2);
+    public delegate int Mydelegate(int a, int b);
     public delegate void Notify();
-    public class Myclass
-    {
-        public static void Email() => Console.WriteLine("Email Sent");
-        public static void Message() => Console.WriteLine("Message Sent");
-
-        public static void Sum(int num1, int num2)
+    class Myclass
+    { 
+        public static void Email()
         {
-            Console.WriteLine(num1 + num2);
+            Console.WriteLine("Email sent");
         }
-        public static void Sub(int num1, int num2)
+        public static void SMS()
         {
-            Console.WriteLine(num1 - num2);
+            Console.WriteLine("SMS sent");
         }
-
-
-        public static void Main(string[] args)
+        public static int Add(int n, int m)
         {
-
-            Notify notify = new Notify(Email);
+            Console.WriteLine( n + m);
+            return 0;
+        }
+        public static void Main(String[] args)
+        {
+            int n, m;
+            //Mydelegate myd = new Mydelegate(Add);
+            //myd.Invoke(2, 5);
+            Notify notify = new Notify(SMS);
             notify();
-            Notify notify1 = new Notify(Message);
+
+         
+            Notify notify1 = new Notify(Email);
             notify1();
-            Mathoperation sum = new Mathoperation(Sum);
-            sum(40, 50);
-            Mathoperation sub = new Mathoperation(Sub);
-            sub(40, 50);
-            GreetAdarsh gt = new GreetAdarsh(SayHello);
-            gt("Akash");
-            AddionOperation ao = new AddionOperation(Add);
 
-            ao += new AddionOperation(Sub1);
-            ao(12, 56);
-           int  a = 10;
-            int b= 20;
-            Console.WriteLine("Hello");
-            Console.WriteLine( a<<1);
+
         }
-        
-
-
-        public static string SayHello(string name)
-        {
-            Console.WriteLine($"Hello, {name}!");
-            return name;
-        }
-
-        public static void Add(int num1, int num2) => Console.WriteLine(num1 + num2);
-
-        public static void Sub1(int num1, int num2) => Console.WriteLine(num1 - num2);
-
-
-
-
     }
 }
