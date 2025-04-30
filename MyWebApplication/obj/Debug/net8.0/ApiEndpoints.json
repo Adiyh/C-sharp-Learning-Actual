@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CalculatorAPI.Controllers.CalculatorController",
+    "Method": "Calculate",
+    "RelativePath": "api/Calculator/calculate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "CalculatorAPI.Models.CalculatorInput",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -3,7 +3,7 @@
 //public class AdarshsClass
 //{
 //    public Dictionary<string, int> glossory =new Dictionary<string, int>();
-  
+
 //    public void fuction()
 //    {
 //        glossory["aditya"]= 1;
@@ -15,3 +15,4 @@
 //        ht.Add("shu",12);
 //    }
 //}
+
